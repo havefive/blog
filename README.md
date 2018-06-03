@@ -6,5 +6,7 @@
 3. [掘金-阿里巴巴](https://juejin.im/tag/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4)
 4. [掘金-腾讯](https://juejin.im/tag/%E8%85%BE%E8%AE%AF)
 5. [大牛-hpoenixf](https://github.com/hpoenixf/hpoenixf.github.io)
+6. [大牛-smohan]https://smohan.net/blog/
+7. [alloyteam-腾讯](http://www.alloyteam.com/page/0/)
 
 
