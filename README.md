@@ -8,5 +8,6 @@
 5. [大牛-hpoenixf](https://github.com/hpoenixf/hpoenixf.github.io)
 6. [大牛-smohan]https://smohan.net/blog/
 7. [alloyteam-腾讯](http://www.alloyteam.com/page/0/)
-
+8. [知乎专栏](https://zhuanlan.zhihu.com/)
+9. [w3c](https://www.w3cplus.com/)
 
